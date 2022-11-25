@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <color name="theme_blue">#350169</color>
+    <color name="theme_blue_dark">#350169</color>
+    <color name="theme_silver">#e4e4e4</color>
+    <color name="theme_white">#E5E5E5</color>
+    <color name="theme_red">#350169</color>
+
+    <color name="navigation_item_background">#f9f5f5</color>
+    <color name="navigation_item_background_light">#f7f3f3</color>
+
+    <color name="color_primary">#fff</color>
+    <color name="color_primary_dark">@color/theme_blue_dark</color>
+    <color name="color_accent">@color/theme_silver</color>
+</resources>
+

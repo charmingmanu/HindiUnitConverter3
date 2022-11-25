@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_help"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/whitebg">
+    <Button
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:layout_alignParentRight="true"
+        android:id="@+id/back"
+        android:background="@drawable/backbut" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54sp"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:textColor="#c40303"
+        android:layout_marginLeft="20sp"
+        android:text="हिंदी से हिंदी शब्दकोश"/>
+
+    <TextView
+        android:layout_width="460sp"
+        android:layout_height="400sp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="120sp"
+        android:text="    हिंदी से हिंदी ऑफ़लाइन और मुफ्त शब्दकोश आप हिंदी शब्द खोज सकते हैं और हिंदी अर्थ को वर्णनात्मक तरीके से प्राप्त कर सकते हैं। हमने शब्द के प्रकार के साथ सटीक अर्थ प्रदान किया है। इस शब्दकोश में आप हिंदी शब्द और हिन्दी वाक्य को अपने हिंदी अर्थ के साथ मिलेंगे।"
+        android:id="@+id/editText" />
+
+
+
+
+</RelativeLayout>

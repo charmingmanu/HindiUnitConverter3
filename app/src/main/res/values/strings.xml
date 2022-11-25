@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">हिंदी यूनिट कनवर्टर</string>
+    <!-- Live ad Codes -->
+    <string name="banner" translatable="false">ca-app-pub-8960050811238409/6485751179</string>
+    <string name="interstial" translatable="false">ca-app-pub-8960050811238409/9844743388</string>
+    <string name="appopen" translatable="false">ca-app-pub-8960050811238409/1794028822</string>
+
+    <!-- Test add
+    <string name="banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="appopen" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+-->
+    <string name="title_activity_settings">Settings</string>
+    <string name="text_from">From</string>
+    <string name="text_to">To</string>
+    <string name="default_value">1</string>
+    <string name="menu_download">Download</string>
+    <string name="menu_clear">Clear Value</string>
+    <string name="group_separator_none">None</string>
+    <string name="request_unit">Unit Converter : New Unit Request</string>
+    <string name="header_other_stuff">Other Stuff</string>
+    <string name="progress_loading">Loading&#8230;</string>
+    <string name="error_loading_currency">अपने इंटरनेट कनेक्शन की जाँच करें और पुन: प्रयास करें.</string>
+
+
+    <string name="toast_error_billing_internet">Oops, there was a problem. Please make sure you have a working Internet connection and try again.</string>
+    <string name="toast_error_billing_general">Oops, there was a problem. Please try again.</string>
+    <string name="toast_donation_successful">Thank you for donating!</string>
+    <string name="toast_error_no_browser">No browser could be found</string>
+    <string name="toast_error_no_email_app">No e-mail app installed</string>
+    <string name="toast_error_google_play">Error opening Google Play Store, please try again</string>
+    <string name="toast_copied_clipboard">Text copied to clipboard</string>
+    <string name="toast_currency_updated">Currency conversions updated</string>
+    <string name="toast_error_updating_currency">There was an error updating the currency conversions.</string>
+
+    <string name="prefs_title_formatting">Formatting</string>
+    <string name="prefs_summary_number_decimals">Set the number of decimal places to be shown in converted value</string>
+    <string name="prefs_title_number_decimals">Number of Decimals</string>
+    <string name="prefs_summary_group_separator">Set the group separator to be shown in converted value</string>
+    <string name="prefs_title_group_separator">Group Separator</string>
+    <string name="prefs_summary_decimal_separator">Set the decimal separator to be shown in converted value</string>
+    <string name="prefs_title_decimal_separator">Decimal Separator</string>
+    <string name="prefs_title_visual">Visual</string>
+    <string name="prefs_title_light_theme">Use Light Theme</string>
+    <string name="prefs_title_language">Language</string>
+    <string name="prefs_summary_language">Choose the language to be used throughout the app</string>
+    <string name="prefs_title_other">Other Stuff</string>
+    <string name="prefs_title_source_code">View Source Code</string>
+    <string name="pref_summary_source_code">Unit Converter Ultimate is open source!  Check out the code on GitHub.</string>
+    <string name="prefs_title_unit_request">Request A Unit</string>
+    <string name="prefs_summary_unit_request">Would you like me to add a unit? Send me an email and let me know.</string>
+    <string name="prefs_title_rate">Rate on Google Play</string>
+    <string name="prefs_summary_rate">Enjoying all this unit conversion? Why not rate it 5 stars?</string>
+    <string name="prefs_title_donate">Donate</string>
+    <string name="prefs_summary_donate">Support development and make me smile :)</string>
+    <string name="prefs_title_open_issue">Found a Bug?</string>
+    <string name="prefs_summary_open_issue">Open an issue on GitHub.</string>
+
+    <string name="dialog_btn_got_it">Got It</string>
+    <string name="dialog_title_help">Help</string>
+    <string name="dialog_message_help">Use the slide-in menu for navigation between conversions and select the units you require.\n\nThe converted value is fully customizable. Use the settings menu to select the number of decimal places required as well as the grouping and decimal separators.\n\nLong-pressing on the converted value copies it to the clipboard.</string>
+    <string name="dialog_btn_view_source">View Source</string>
+
+    <!-- Language values -->
+    <string name="language_default" translatable="false">System Default</string>
+    <string name="language_english" translatable="false">English</string>
+    <string name="language_croatian" translatable="false">Croatian</string>
+    <string name="language_farsi" translatable="false">Farsi</string>
+    <string name="language_french" translatable="false">French</string>
+    <string name="language_german" translatable="false">German</string>
+    <string name="language_hungarian" translatable="false">Hungarian</string>
+    <string name="language_italian" translatable="false">Italian</string>
+    <string name="language_japanese" translatable="false">Japanese</string>
+    <string name="language_portuguese_brazil" translatable="false">Portuguese (Brazil)</string>
+    <string name="language_russian" translatable="false">Russian</string>
+    <string name="language_spanish" translatable="false">Spanish</string>
+    <string name="language_turkish" translatable="false">Turkish</string>
+
+    <!-- Conversions -->
+    <string name="area">क्षेत्र</string>
+    <string name="cooking">कुकिंग</string>
+    <string name="currency">चलन</string>
+    <string name="storage">डिजिटल स्टोरेज</string>
+    <string name="energy">ऊर्जा</string>
+    <string name="fuel_consumption">ईंधन</string>
+    <string name="length">लंबाई / दूरी</string>
+    <string name="mass">मास / वजन</string>
+    <string name="power">शक्ति</string>
+    <string name="pressure">दबाव</string>
+    <string name="speed">गति</string>
+    <string name="temperature">तापमान</string>
+    <string name="time">समय</string>
+    <string name="torque">टोक़</string>
+    <string name="volume">परिमाण</string>
+    <string name="current">विद्युत</string>
+    <string name="image">छवि</string>
+    <string name="force">बल</string>
+    <string name="angle">कोण</string>
+    <string name="frequency">फ्रीक्वेंसी</string>
+    <string name="resistance">प्रतिरोध</string>
+
+    <!-- Area -->
+    <string name="sq_kilometre">वर्ग किलोमीटर</string>
+    <string name="sq_metre">वर्ग मीटर</string>
+    <string name="sq_centimetre">वर्ग सेंटीमीटर</string>
+    <string name="hectare">हैक्टर</string>
+    <string name="sq_mile">वर्ग मील</string>
+    <string name="sq_yard">वर्ग यार्ड</string>
+    <string name="sq_foot">वर्ग फुट</string>
+    <string name="sq_inch">वर्ग इंच</string>
+    <string name="acre">एकड़</string>
+
+    <!--Current -->
+    <string name="ampere">एम्पियर</string>
+    <string name="kiloampere">किलो एम्पियर</string>
+    <string name="milliampere">मिलीएम्पियर</string>
+    <string name="biot">बिओट</string>
+    <string name="abampere">एबी एम्पीयर</string>
+    <string name="emu">ई एम यू</string>
+    <string name="stataampere">स्टेटाएम्पेयर </string>
+    <string name="esu">ई एस यू</string>
+    <string name="cgs">सी जी एस</string>
+    <string name="cgses">सी जी एस ई एस</string>
+
+    <!--Registance -->
+    <string name="ohm">ओम</string>
+    <string name="nanoohm">नैनोओम</string>
+    <string name="milliohm">मिलीओम</string>
+    <string name="microohm">माइक्रोओम</string>
+    <string name="kiloohm">किलोओम</string>
+    <string name="megaohm">मेगाओम</string>
+    <string name="gigaohm">गीगाओम</string>
+
+    <!-- Digital Storage -->
+    <string name="bit">बिट</string>
+    <string name="Byte">बाइट</string>
+    <string name="kilobit">किलोबिट</string>
+    <string name="kilobyte">किलोबाइट</string>
+    <string name="megabit">मेगाबिट</string>
+    <string name="megabyte">मेगाबाइट</string>
+    <string name="gigabit">गीगाबिट</string>
+    <string name="gigabyte">गीगाबाइट</string>
+    <string name="terabit">टेराबिट</string>
+    <string name="terabyte">टेराबाइट</string>
+
+    <!-- Energy -->
+    <string name="joule">जौल</string>
+    <string name="kilojoule">किलोजौल</string>
+    <string name="calorie">कैलोरी</string>
+    <string name="kilocalorie">किलोकैलोरी</string>
+    <string name="btu">बी टी यू</string>
+    <string name="ft_lbF">फुट-एल बी एफ</string>
+    <string name="in_lbF">इंच-एल बी एफ</string>
+    <string name="kilowatt_hour">किलोवाट्ट घन्ता</string>
+
+    <!-- Fuel Consumption -->
+    <string name="mpg_us">मील / गैलन (US)</string>
+    <string name="mpg_uk">मील / गैलन (UK)</string>
+    <string name="l_100k">लीटर / १००km</string>
+    <string name="km_l">किलोमीटर / लीटर</string>
+    <string name="miles_l">मील / लीटर</string>
+    <string name="l_m">लीटर / मीटर</string>
+    <string name="wh_km">वाट्ट घंटे / किलोमीटर</string>
+    <string name="wh_m">वाट्ट घंटे / मील</string>
+
+
+    <!-- Force -->
+    <string name="dynes">डाइन</string>
+    <string name="kilograms_force">किलोग्राम फोर्स</string>
+    <string name="kilo_newtons">किलो न्यूटन</string>
+    <string name="kips">कीप्स </string>
+    <string name="mega_newtons">मेगा न्यूटन</string>
+    <string name="pounds_force">पाउंड फोर्स</string>
+    <string name="poundals">पौंडल्स</string>
+    <string name="sthene">स्थेने </string>
+    <string name="tonnes_force">टोन्स फाॅर्स </string>
+
+
+    <!-- Distance -->
+    <string name="kilometre">किलोमीटर</string>
+    <string name="mile">मीलों</string>
+    <string name="metre">मीटर</string>
+    <string name="centimetre">सेंटीमीटर (cm)</string>
+    <string name="millimetre">मिलीमीटर (mm)</string>
+    <string name="micrometre">माइक्रोमीटर</string>
+    <string name="nanometre">नैनोमीटर</string>
+    <string name="yard">यार्ड</string>
+    <string name="feet">पैर</string>
+    <string name="inch">इंच</string>
+    <string name="nautical_mile">समुद्री मील</string>
+    <string name="furlong">२२० गज़</string>
+    <string name="light_year">प्रकाश वर्ष</string>
+
+    <!-- Mass/Weight -->
+    <string name="kilogram">किलोग्राम</string>
+    <string name="pound">पौंड</string>
+    <string name="gram">ग्राम</string>
+    <string name="milligram">मिलीग्राम</string>
+    <string name="ounce">औंस</string>
+    <string name="grain">अनाज</string>
+    <string name="stone">पत्थर</string>
+    <string name="metric_ton">टन(मीट्रिक)</string>
+    <string name="short_ton">टन (यूएस / छोटा)</string>
+    <string name="long_ton">टन (यूके / लंबा)</string>
+
+    <!-- Power -->
+    <string name="watt">वाट्ट</string>
+    <string name="kilowatt">किलोवाट्ट</string>
+    <string name="megawatt">मेगावाट्ट</string>
+    <string name="hp">एचपी (मीट्रिक)</string>
+    <string name="hp_uk">एचपी (मैकेनिकल)</string>
+    <string name="ft_lbf_s">फुट-lbf / सैकन्ड</string>
+    <string name="calorie_s">कैलोरी/सैकन्ड</string>
+    <string name="btu_s">BTU/सैकन्ड</string>
+    <string name="kva">kV-A</string>
+
+    <!-- Pressure -->
+    <string name="megapascal">मेगापासकल</string>
+    <string name="hectopascal">हेक्टोपास्कल</string>
+    <string name="kilopascal">किलोपासकल </string>
+    <string name="pascal">पास्कल</string>
+    <string name="bar">बार</string>
+    <string name="psi">PSI</string>
+    <string name="psf">PSF</string>
+    <string name="atmosphere">वायुमंडल</string>
+    <string name="technical_atmosphere">तकनीकी Atm</string>
+    <string name="mmhg">mm Hg</string>
+    <string name="torr">Torr</string>
+
+    <!-- Speed -->
+    <string name="km_h">किलोमीटर / घंटा</string>
+    <string name="mph">माइल / घंटा</string>
+    <string name="m_s">मीटर / सेकंड</string>
+    <string name="fps">फुट / सेकंड</string>
+    <string name="knot">समुद्र् मील</string>
+    <string name="m_m">मीटर / मिनट</string>
+    <string name="km_s">किलोमीटर / सेकंड</string>
+    <string name="cm_h">सेंटीमीटर / घंटा</string>
+    <string name="cm_m">सेंटीमीटर / मिनट</string>
+    <string name="cm_s">सेंटीमीटर / सेकंड</string>
+
+    <!-- Temperature -->
+    <string name="celsius">सेल्सीयस</string>
+    <string name="fahrenheit">फारेनहाइट</string>
+    <string name="kelvin">केल्विन</string>
+    <string name="rankine">रैंकिन</string>
+    <string name="delisle">देलिस्ले </string>
+    <string name="newton">न्यूटन</string>
+    <string name="reaumur">रयूमर</string>
+    <string name="romer">रोमर</string>
+    <string name="gas_mark">गैस मार्क</string>
+
+    <!-- Time -->
+    <string name="year">साल</string>
+    <string name="month">महीना</string>
+    <string name="week">सप्ताह</string>
+    <string name="day">दिन</string>
+    <string name="hour">घंटा</string>
+    <string name="minute">मिनट</string>
+    <string name="second">सैकन्ड</string>
+    <string name="millisecond">मिलीसैकन्ड</string>
+    <string name="nanosecond">नैनोसैकन्ड</string>
+
+
+    <!-- Torque -->
+    <string name="n_m">N-m</string>
+    <string name="newton_centimeter">N-cm</string>
+    <string name="newton_millimeter">N-mm</string>
+    <string name="dyne_meter">dyn-m</string>
+
+
+    <!-- Volume -->
+    <string name="teaspoon">छोटी चम्मच</string>
+    <string name="tablespoon">बड़ा चमचा</string>
+    <string name="cup">कप</string>
+    <string name="fluid_ounce">द्रव-औंस (US)</string>
+    <string name="quart">चौथाई गेलन (US)</string>
+    <string name="pint">डेढ पाव (US)</string>
+    <string name="gallon">गैलन (US)</string>
+    <string name="barrel">बैरल (US)</string>
+    <string name="fluid_ounce_uk">द्रव-औंस (UK)</string>
+    <string name="quart_uk">चौथाई गेलन (UK)</string>
+    <string name="pint_uk">डेढ पाव (UK)</string>
+    <string name="gallon_uk">गैलन (UK)</string>
+    <string name="barrel_uk">बैरल (UK)</string>
+    <string name="millilitre">मिलीलीटर</string>
+    <string name="litre">लीटर</string>
+    <string name="cubic_cm">घन cm</string>
+    <string name="cubic_m">घन मीटर</string>
+    <string name="cubic_inch">घन इंच</string>
+    <string name="cubic_foot">घन फुट</string>
+    <string name="cubic_yard">घन यार्ड</string>
+
+    <!--Image -->
+    <string name="twip">ट्वीप </string>
+    <string name="meter">मीटर</string>
+    <string name="centimeter">सेंटीमीटर</string>
+    <string name="millimeter">मिलीमीटर</string>
+    <string name="chacterx">चैक्टेर_x</string>
+    <string name="chactery">चैक्टेर_y</string>
+    <string name="pixtelx">पिक्सेलx</string>
+    <string name="pixely">पिक्सेलy</string>
+    <string name="en">en</string>
+
+    <!--Frequency -->
+    <string name="nanohertz">नैनोहर्ट्ज</string>
+    <string name="microhertz">माइक्रोहर्ट्ज</string>
+    <string name="millihertz">मिलीहर्ट्ज</string>
+    <string name="hertz">हर्ट्ज</string>
+    <string name="kilohertz">किलोहर्ट्ज</string>
+    <string name="megahertz">मेगाहर्ट्ज</string>
+    <string name="gigahertz">गीगाहर्ट्ज</string>
+
+    <!--Angle -->
+    <string name="degree">डिग्री</string>
+    <string name="radian">रेडियन</string>
+    <string name="grad">स्नातक</string>
+    <string name="a_minuit">मिनट</string>
+    <string name="a_second">सेकंड</string>
+    <string name="gon">गोन</string>
+    <string name="sign">चिह्न</string>
+    <string name="mil">हज़ार</string>
+    <string name="revolution">क्रान्ति</string>
+    <string name="circle">वृत्त</string>
+    <string name="turn">मोड़</string>
+    <string name="quadrant">चतुर्य भाग</string>
+    <string name="right_angle">समकोण</string>
+    <string name="sextant">षष्ठक</string>
+
+
+    <!-- Currency -->
+    <string name="aud">ऑस्ट्रलियन डॉलर</string>
+    <string name="bgn">बल्गेरियाई लेवी</string>
+    <string name="brl">ब्राजीली रियल</string>
+    <string name="cdn">कैनेडियन डॉलर</string>
+    <string name="chf">स्विस फ्रैंक</string>
+    <string name="cny">चीनी युवान</string>
+    <string name="czk">चेक कोरुना</string>
+    <string name="dkk">डेनिश क्रोन</string>
+    <string name="eur">यूरो</string>
+    <string name="gbp">ब्रिटिश पाउंड</string>
+    <string name="hkd">होन्ग कोंग डॉलर</string>
+    <string name="hrk">क्रोएशियाई कुना</string>
+    <string name="huf">हंगरी फोरिंट</string>
+    <string name="idr">इंडोनेशियाई रुपिया</string>
+    <string name="ils">इज़राइल शेकेल</string>
+    <string name="inr">भारतीय रुपया</string>
+    <string name="jpy">जापानी येन</string>
+    <string name="krw">कोरियन वॉन</string>
+    <string name="mxn">मेक्सिकन पेसो</string>
+    <string name="myr">मलेशियाई रिंग्गित</string>
+    <string name="nok">नार्वेजियन क्रोन</string>
+    <string name="nzd">न्यूजीलैंड डॉलर</string>
+    <string name="php">फिलीपीन पेसो</string>
+    <string name="pln">पोलिश ज़्लोटी</string>
+    <string name="ron">रोमानियाई लियू</string>
+    <string name="rub">रूसी रूबल</string>
+    <string name="sek">स्वीडिश क्रोना</string>
+    <string name="sgd">सिंगापुर का डॉलर</string>
+    <string name="thb">थाईलैण्ड की मुद्रा</string>
+    <string name="lira">तुर्की लीरा</string>
+    <string name="usd">अमेरिकी डॉलर</string>
+    <string name="zar">दक्षिण अफ़्रीकी रैंड</string>
+    <string name="closemsg">क्या आप इस ऐप को बंद करना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+
+</resources>

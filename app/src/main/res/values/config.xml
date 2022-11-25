@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="default_number_decimals">4</string>
+    <string name="default_group_separator">None</string>
+    <string name="default_decimal_separator">.</string>
+    <integer name="num_digits_from">15</integer>
+
+    <!-- Language values -->
+    <string name="language_code_default" translatable="false">def</string>
+</resources>
